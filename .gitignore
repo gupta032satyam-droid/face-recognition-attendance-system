@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Private data - never push face images or student records
+data/
