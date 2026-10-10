@@ -23,13 +23,13 @@ Histograms)** algorithm from OpenCV. Attendance is saved to an Excel file (one s
 <img src="screenshots/dashboard.png" alt="Dashboard" width="850">
 
 ### csv file image
-<img src="screenshots/enroll.png" alt="Enrollment" width="850">
+<img src="screenshots/csv.png" alt="Enrollment" width="850">
 
 ### Students page
 <img src="screenshots/students.png" alt="Students" width="850">
 
 ### Reports page
-<img src="screenshots/reports.png" alt="Reports" width="850">
+<img src="screenshots/report.png" alt="Reports" width="850">
 
 
 ## Project structure
