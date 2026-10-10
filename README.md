@@ -17,6 +17,21 @@ Histograms)** algorithm from OpenCV. Attendance is saved to an Excel file (one s
 - Adjustable settings: camera index, samples per student, recognition strictness,
   auto-stop timer, mirror view, FPS counter, beep on attendance
 
+## Screenshots
+
+### Dashboard
+<img src="screenshots/dashboard.png" alt="Dashboard" width="850">
+
+### csv file image
+<img src="screenshots/enroll.png" alt="Enrollment" width="850">
+
+### Students page
+<img src="screenshots/students.png" alt="Students" width="850">
+
+### Reports page
+<img src="screenshots/reports.png" alt="Reports" width="850">
+
+
 ## Project structure
 ```
 guimain.py        main window - RUN THIS (connects all pages)
@@ -34,8 +49,8 @@ requirements.txt  Python dependencies
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/gupta032satyam/face-recognition-attendance-system.git
+cd <face-recognition-attendance-system.git >
 python -m venv venv
 venv\Scripts\activate          # Windows   (Linux/macOS: source venv/bin/activate)
 pip install -r requirements.txt
@@ -66,4 +81,4 @@ Python, OpenCV (opencv-contrib-python), NumPy, Pillow, openpyxl, Tkinter.
 Face images and student records live in `data/`, which is git-ignored. Do not push them.
 
 ## Author
-<Satyam Kumar Gupta> - BCA, University of Allahabad
+Satyam Kumar Gupta - BCA ,University of Allahabad
